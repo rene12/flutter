@@ -1,5 +1,5 @@
 Flutter Examples
-================
+=================
 
 This directory contains several examples of using Flutter. To run an example,
 use `flutter run` inside that example's directory. See the [getting started
